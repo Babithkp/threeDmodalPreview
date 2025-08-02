@@ -6,7 +6,7 @@ function App() {
     <main>
       <ThreeSixty
         amount={36}
-        imagePath="/src/assets/Car-Images"
+        imagePath="https://shreelnlogistics-bucket.s3.ap-south-1.amazonaws.com/Car-Images"
         fileName="car-{index}.png"
         spinReverse
         autoplay
